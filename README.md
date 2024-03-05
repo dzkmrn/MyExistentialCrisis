@@ -1,3 +1,3 @@
-# Existential Crisis
+# MyExistentialCrisis
 
-An app where you can find answer for your daily existential crisis.
+Basically a sh*tty app.
