@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">MyExistentialCrisis</string>
+    <string name="philos_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile_nama">Muhammad Dzaka Murran Rusid</string>
+    <string name="profile_email">dzaka@gmail.com</string>
+    <string name="profile_quote">"He who has a why to live can bear almost any how." -Nietzsche</string>
+    <string-array name="data_name">
+        <item>Absurdism</item>
+        <item>Agnosticism</item>
+        <item>Cosmism</item>
+        <item>Existentialism</item>
+        <item>Naturalism</item>
+        <item>Nihilism</item>
+        <item>Pessimism</item>
+        <item>Rationalism</item>
+        <item>Religion</item>
+        <item>Stoicism</item>
+    </string-array>
+
+    <string-array name="philos_description">
+        <item>Absurdism is a philosophical perspective which holds that the efforts of humanity to find meaning or rational explanation in the universe ultimately fail (and, hence, are absurd) because no such meaning exists, at least to human beings. The word absurd in this context does not mean "logically impossible," but rather "humanly impossible". Absurdism implies a tragic tone and feelings of frustration that arise out of the contradiction between the human quest for the meaning of life and its inaccessibility.</item>
+        <item>Agnosticism is a philosophical stance that asserts the inherent limitations of human knowledge concerning the existence and nature of ultimate realities, particularly with regards to questions about the existence of deities or supernatural entities. Agnostics contend that certain metaphysical or existential inquiries are beyond the scope of empirical evidence or human comprehension. While agnostics may acknowledge the possibility of divine existence, they maintain that certainty or definitive knowledge on such matters is unattainable. Agnosticism stands distinct from both atheism and theism, embodying a position of skepticism and intellectual humility, emphasizing the recognition of uncertainty in matters that extend beyond the empirical realm.</item>
+        <item>Cosmism is a philosophical and spiritual concept associated with the teachings of Russian thinker Nikolai Fyodorov (1828–1903). Fyodorovs cosmist philosophy revolves around the idea of human immortality and the ultimate goal of overcoming death through scientific and technological means. Central to cosmoism is the belief that humanity has a collective responsibility to participate in the process of cosmic evolution, striving to achieve a form of universal resurrection by resurrecting and uniting all past generations. This vision combines elements of scientific progress, religious aspirations, and the pursuit of cosmic harmony, proposing a future where humans actively contribute to the transformation of the universe and achieve a state of cosmic unity and immortality. While not widely known, cosmoism has left a mark on Russian philosophical thought and has influenced discussions about the human future and the role of science in shaping destiny.</item>
+        <item>Existentialism is a philosophical and literary movement that emerged in the 20th century, particularly in the aftermath of World War II. Central to existentialist thought is the exploration of individual existence, freedom, and the inherent responsibility of individuals to create their own meaning in an otherwise indifferent or absurd world. Existentialists reject predetermined values and systems, emphasizing the importance of personal choice and subjective experience. Prominent existentialist thinkers include Jean-Paul Sartre, Albert Camus, and Søren Kierkegaard. Existentialism often grapples with themes of authenticity, angst, and the quest for personal identity in the face of lifes uncertainties. It has influenced diverse fields, including philosophy, literature, psychology, and the arts, leaving a lasting impact on discussions about human existence and the pursuit of meaning in a seemingly chaotic universe.</item>
+        <item>Naturalism is a philosophical and literary perspective that posits the natural world as the fundamental and sole reality, excluding supernatural or metaphysical entities. Rooted in a scientific and empirical outlook, naturalism contends that all phenomena, including human behavior and consciousness, can be explained through natural laws and processes. In literature, naturalism emerged in the late 19th century and is characterized by a deterministic view of human nature, often portraying individuals as products of their environment and heredity. Naturalist works typically explore themes of survival, determinism, and the impact of external forces on human lives. This perspective rejects the existence of free will in favor of a more mechanistic understanding of the universe, emphasizing the influence of biological, environmental, and social factors on human behavior and destiny.</item>
+        <item>Nihilism is a philosophical perspective that fundamentally rejects or denies the existence of inherent meaning, value, or purpose in life. Nihilists argue that traditional beliefs and moral principles lack objective foundations, asserting that concepts like morality, truth, and purpose are human constructs with no inherent significance. This worldview contends that life lacks inherent meaning or purpose, leading to a sense of existential emptiness. While nihilism can manifest in various forms, including ethical nihilism and existential nihilism, it generally posits a bleak and indifferent universe, challenging traditional notions of morality, meaning, and the significance of human existence. Critics argue that nihilism can lead to nihilistic despair, while proponents often see it as an opportunity for personal freedom and the creation of individual meaning in an otherwise seemingly indifferent world.</item>
+        <item>Pessimism, an attitude of hopelessness toward life and toward existence, coupled with a vague general opinion that pain and evil predominate in the world. It is derived from the Latin pessimus (“worst”). Pessimism is the antithesis of optimism, an attitude of general hopefulness, coupled with the view that there is a balance of good and pleasure in the world. To describe an attitude as pessimistic need not, however, mean that it involves no hope at all. It may locate its objects of hope and of appraisal in a region beyond ordinary experience and existence. It may also direct such hope and appraisal to the complete cessation and cancelling of existence.</item>
+        <item>Rationalism is a philosophical stance that places a strong emphasis on reason, logic, and empirical evidence as the primary sources of knowledge and understanding. Emerging during the Age of Enlightenment, rationalism asserts that human beings can gain knowledge and insight through systematic thought, observation, and deduction. Rationalists often reject reliance on intuition or revelation in favor of critical thinking and the scientific method. René Descartes, Baruch Spinoza, and Gottfried Wilhelm Leibniz are notable historical figures associated with rationalist thought. While rationalism has played a crucial role in advancing scientific inquiry and critical reasoning, it coexists with other philosophical perspectives, such as empiricism, which emphasizes the importance of sensory experience and observation in acquiring knowledge.</item>
+        <item>Religion encompasses a diverse array of cultural, spiritual, and belief systems that involve humanitys quest for transcendent meaning and a connection with the divine or sacred. Rooted in ritual practices, moral codes, and a worldview often explaining the origin and purpose of existence, religions vary widely across cultures and historical periods. Major world religions include Christianity, Islam, Judaism, Hinduism, and Buddhism, each offering unique perspectives on the nature of divinity, ethics, and the human condition. Religion often plays a central role in shaping individual and collective identities, providing a framework for ethical guidance, community cohesion, and the expression of spirituality. While religion has been a source of comfort, moral guidance, and cultural richness for many, it has also been a source of conflict throughout history, sparking debates over doctrine, interpretation, and the role of faith in public life.</item>
+        <item>Stoicism, an ancient Greek philosophy founded by Zeno of Citium and developed by philosophers like Seneca and Epictetus, is a practical and ethical guide to living a virtuous life. At its core, Stoicism teaches that the highest good is personal virtue, comprising qualities such as wisdom, courage, justice, and self-discipline. Central to Stoic principles is the acceptance of the natural order of the universe and the realization of what is within ones control. Practitioners cultivate a rational and mindful approach to life, aiming to maintain inner tranquility by remaining indifferent to external circumstances and focusing on continuous self-improvement. Stoicism encourages individuals to face adversity with resilience, view challenges as opportunities for growth, and foster positive social relationships while prioritizing the development of an unwavering character.</item>
+    </string-array>
+
+    <integer-array name="photos">
+        <item>@drawable/absurdism</item>
+        <item>@drawable/agnosticism</item>
+        <item>@drawable/cosmism</item>
+        <item>@drawable/existensialism</item>
+        <item>@drawable/naturalism</item>
+        <item>@drawable/nihilism</item>
+        <item>@drawable/pessimism</item>
+        <item>@drawable/rationalism</item>
+        <item>@drawable/stoicism</item>
+        <item>@drawable/religion</item>
+    </integer-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
